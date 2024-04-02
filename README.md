@@ -189,3 +189,9 @@ Las caracteristicas son las siguientes:
 
 ### RNF12: Consumo de Recursos
 - El juego debe optimizar el uso de recursos del sistema, como la memoria RAM, la CPU y el espacio de almacenamiento, para garantizar un rendimiento óptimo en una variedad de dispositivos.
+
+### 9. DIAGRAMA DE ENTIDAD - RELACIÓN
+[![Diagrama-Entidad-Relaci-n-Stryker-drawio.png](https://i.postimg.cc/RV7sBNbh/Diagrama-Entidad-Relaci-n-Stryker-drawio.png)](https://postimg.cc/56tq5NJW)
+
+### 10. DIAGRAMA DE CASOS DE USO
+[![Diagrama-de-Casos-de-Uso-drawio.png](https://i.postimg.cc/V6JZQg3P/Diagrama-de-Casos-de-Uso-drawio.png)](https://postimg.cc/FdQV0yrT)
